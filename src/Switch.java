@@ -1,0 +1,28 @@
+
+
+package day_12_Switch_Scanner;
+
+public class Switch {
+    public static void main(String[] args) {
+        switch (14){
+            default:
+                System.out.println("Invalid Case");
+                break;
+            case 5:
+                System.out.println(5);
+                break;
+            case 1:
+                System.out.println(1);
+                break;
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
